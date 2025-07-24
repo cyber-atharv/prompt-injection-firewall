@@ -8,3 +8,6 @@ All notable changes to prompt-injection-firewall will be documented in this file
 ## [0.1.1] - 2025-07-22
 - feat: add semantic similarity filters and canary token tracking
 
+## [0.1.2] - 2025-07-24
+- feat: implement heuristic rule patterns for system prompt leaks
+
