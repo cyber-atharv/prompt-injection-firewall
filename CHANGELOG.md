@@ -11,3 +11,6 @@ All notable changes to prompt-injection-firewall will be documented in this file
 ## [0.1.2] - 2025-07-24
 - feat: implement heuristic rule patterns for system prompt leaks
 
+## [0.1.3] - 2025-07-26
+- test: add adversarial prompt test suite
+
